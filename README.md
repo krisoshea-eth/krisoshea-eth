@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krisoshea-eth.
 - 👀 I’m interested in blockchain, token engineering, game theory, and mechanism design.
-- 🌱 I’m currently learning Solidity, Huff, Foundry, Hardhat, Yul, Javascript, and Typescript.
+- 🌱 I’m currently learning Solidity, Cairo, Huff, Foundry, Hardhat, Yul, Javascript, and Typescript.
 - 💞️ I’m looking to collaborate on Web3 projects.
 - 📫 You can reach me @krisoshea1 on Twitter.
 
